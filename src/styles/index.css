@@ -9,3 +9,12 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+
+.color-purpura {
+    background-color: purple !important;
+}
+
+.product-card{
+    width: 18rem;
+}
